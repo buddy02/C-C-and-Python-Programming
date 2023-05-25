@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Programs"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+		]
+	},
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"SUMOFDIGITS.C": "cpp",
+			"FIBONACCI.C": "cpp"
+		}
+	}
+}
